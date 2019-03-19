@@ -1,0 +1,12 @@
+{
+    "name": "Plant_3_Temp_Humid",
+    "description": "Plant 3 temperature and humidity",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "temphumid.json",
+            "credentialsFile": "temphumid_cred.json"
+        }
+    }
+}
